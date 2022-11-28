@@ -19,3 +19,4 @@ if (marks>=0 && marks<=39) {
     console.log("INVALID MARKS!");
 }
 }
+studentgrade(58)
